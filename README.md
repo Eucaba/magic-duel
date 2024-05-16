@@ -17,6 +17,12 @@ The player can choose whether to heal themselves or attack the opponent during t
 
 The game announces if the player wins or loses.
 
+### Small preview
+
+
+https://github.com/Eucaba/magic-duel/assets/131151285/a77ad894-21cf-4ae2-b308-07099e93fbcf
+
+
 
 ### Possible improvements to implement in the future 🚧
 Improve visuals (make text more user friendly)
